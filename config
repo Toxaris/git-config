@@ -1,0 +1,10 @@
+[user]
+	name = Tillmann Rendel
+	email = rendel@informatik.uni-marburg.de
+[github]
+	user = Toxaris
+[core]
+	filemode = false
+	editor = c:/software/bin/emacs.exe
+[color]
+	ui = true
