@@ -8,3 +8,5 @@
 	editor = c:/software/bin/emacs.exe
 [color]
 	ui = true
+[diff]
+        renames = copies
