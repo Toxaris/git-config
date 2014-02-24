@@ -5,7 +5,7 @@
 	user = Toxaris
 [core]
 	filemode = false
-	editor = c:/software/bin/emacs.exe
+	editor = c:/software/bin/emacs.bat
 [color]
 	ui = true
 [diff]
