@@ -10,3 +10,5 @@
 	ui = true
 [diff]
         renames = copies
+[alias]
+	start = !git init && git commit --allow-empty --message 'Initial commit.'
