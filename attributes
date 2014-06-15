@@ -5,7 +5,7 @@
 *.htm      diff=html
 *.html     diff=html
 *.java     diff=java
-*.phph     diff=php
+*.php      diff=php
 *.ruby     diff=ruby
 
 *.hs       diff=cpp
