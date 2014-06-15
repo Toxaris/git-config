@@ -12,3 +12,5 @@
         renames = copies
 [alias]
 	start = !git init && git commit --allow-empty --message 'Initial commit.'
+[credential]
+        helper = wincred
