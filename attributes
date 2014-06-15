@@ -7,6 +7,7 @@
 *.java     diff=java
 *.php      diff=php
 *.ruby     diff=ruby
+*.tex      diff=tex
 
 *.hs       diff=cpp
 *.scala    diff=java
