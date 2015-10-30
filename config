@@ -17,3 +17,5 @@
         helper = wincred
 [merge]
         defaultToUpstream = true
+[diff "csv"]
+    wordRegex = [^,\n]+[,\n]|[,]

@@ -12,3 +12,5 @@
 *.hs       diff=cpp
 *.scala    diff=java
 *.uro      diff=java
+
+*.csv      diff=csv
