@@ -13,8 +13,6 @@
 [alias]
 	start = !git init && git commit --allow-empty --message 'Initial commit.'
         unmerged = diff --name-only --diff-filter=U
-[credential]
-        helper = wincred
 [merge]
         defaultToUpstream = true
 [diff "csv"]
