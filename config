@@ -5,7 +5,7 @@
 	user = Toxaris
 [core]
 	filemode = false
-	editor = c:/software/bin/emacs.sh
+	editor = $XDG_CONFIG_HOME/bin/emacs.sh
 [color]
 	ui = true
 [diff]
